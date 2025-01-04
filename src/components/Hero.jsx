@@ -75,7 +75,7 @@ const Hero = () => {
                         className="z-10 cursor-pointer font-bold text-gray-200 md:w-auto p-4 border
                                      border-purple-400 rounded-xl"     
                     >
-                       <a href="https://drive.google.com/file/d/1H90GSoRYA1dkgOgq7DIn4fobPo9mZiJQ/view?usp=sharing">Download CV</a> 
+                       <a href="https://drive.google.com/file/d/1QBcL1JnpqvVseMLGwmMVli6rHMNy4Frl/view?usp=sharing">Download CV</a> 
                     
                     </motion.button>
 
